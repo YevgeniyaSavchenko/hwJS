@@ -18,6 +18,6 @@ let camelize = (str) => {
     return newStr;
 }
 
-let str1 = 'my-short-string';
+let str = 'my-short-string';
 
-console.log(camelize(str1));
+console.log(camelize(str));
